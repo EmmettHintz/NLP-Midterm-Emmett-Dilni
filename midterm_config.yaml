@@ -2,15 +2,13 @@ exp: MinimalPair
 
 mode:
   - evaluate
-  - analyze
 
 models:
   - hf_text_classification_model:
-      - bert-large-uncased
+      - TRAINED_BERT_MODEL_PATH
   - hf_text_classification_model:
-      - openai-gpt
+      - TRAINED_GPT_MODEL_PATH
 
-predfpath: ./output/evaluate_result.tsv
 datafpath: ./data/major_CoLA_Annotated.tsv
-resultsfpath: ./output/analyze_result.tsv
-pred_measure: prob
+predfpath: ./output/evaluate_result.tsv
+# We will take evaluate output and calculate MCC

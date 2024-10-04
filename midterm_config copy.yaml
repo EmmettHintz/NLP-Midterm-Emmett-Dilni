@@ -1,0 +1,16 @@
+exp: 
+https://github.com/forrestdavis/NLPScholar/blob/main/sample_configs/text_classification.yaml
+
+mode:
+  - train
+
+models:
+  - hf_text_classification_model:
+      - bert-large-uncased
+  - hf_text_classification_model:
+      - openai-gpt
+
+modelfpath: 
+predfpath: ./output/evaluate_result.tsv
+datafpath: ./data/major_CoLA_Annotated.tsv
+resultsfpath: ./output/analyze_result.tsv
