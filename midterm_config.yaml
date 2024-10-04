@@ -1,10 +1,16 @@
-exp:
+exp: MinimalPair
 
 mode:
-  -
+  - evaluate
+  - analyze
 
 models:
   - hf_text_classification_model:
       - bert-large-uncased
-  
+  - hf_text_classification_model:
+      - openai-gpt
 
+predfpath: ./output/evaluate_result.tsv
+datafpath: ./data/major_CoLA_Annotated.tsv
+resultsfpath: ./output/analyze_result.tsv
+pred_measure: prob
