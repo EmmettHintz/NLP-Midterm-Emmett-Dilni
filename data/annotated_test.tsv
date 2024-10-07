@@ -1,0 +1,210 @@
+Source	Domain	Acceptability	Sentence	Simple	Predicate	Adjunct	Argument Type	Arg Altern	Imperative	Binding	Question	Comp Clause	Auxiliary	to-VP	N, Adj	S-Syntax	Determiner	Violations
+gj04	In	1	The sailors rode the breeze clear of the rocks.	0	1	0	1	1	0	0	0	0	0	0	1	0	0	0
+gj04	In	1	The mechanical doll wriggled itself loose.	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0
+cj99	In	0	I demand that the more John eat, the more he pays.	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1
+cj99	In	1	The more Fred is obnoxious, the less attention you should pay to him.	0	1	0	1	1	0	0	0	0	1	0	0	1	1	0
+bc01	In	1	Marianne did not leave.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+bc01	In	1	John has not kissed Mary.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+bc01	In	0	The tube was escaped by gas.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+bc01	In	1	John went home.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bc01	In	1	Mary will read Fred's story, and Joe will read Holly's.	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+bc01	In	1	We elected me.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+r-67	In	1	He let the cats which were whining out.	0	0	1	0	1	0	0	1	0	1	0	0	0	0	0
+r-67	In	0	I want that Bill left to remain a secret.	0	1	0	0	1	0	0	0	1	0	1	0	0	0	0
+r-67	In	0	I know a man who Tom drives as drives.	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+r-67	In	1	I feel that Arch will show up.	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0
+r-67	In	1	Tom picked these grapes, and I washed some turnips, and Suzie will prepare these grapes.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+r-67	In	1	Where did you go and who ate what?	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0
+r-67	In	1	How sane is Peter?	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+r-67	In	1	Who is she trying to make up to now?	0	0	1	1	0	0	0	1	0	1	1	0	0	0	0
+r-67	In	0	Which girl did Mike quip never wore this hat?	0	0	1	0	0	0	0	1	1	1	0	0	0	0	0
+r-67	In	0	I won't have some money.	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+r-67	In	1	I'll work on it if I can.	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0
+r-67	In	1	I have to try to finish grading some papers.	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0
+r-67	In	0	Every student, and he wears socks, is a swinger.	0	1	0	0	0	0	1	0	0	0	0	0	1	1	0
+rhl07	In	0	Sam gave the ball out of the basket.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1
+rhl07	In	1	The worker will have a job.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+rhl07	In	0	I lent the book partway to Tony.	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	0	The farmer dumped the cart with apples.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	1	The bread cuts easily.	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	1	We pulled free.	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	0	They praised the dedication in the volunteers.	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+l-93	In	1	Sandra beamed a cheerful welcome.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	1	You've really lived it up.	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0
+l-93	In	0	Paperback books lift onto the table easily.	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+l-93	In	1	Nora sent Peter the book.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	0	Carla slid at the book.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1
+l-93	In	1	Carmen obtained the spare part at the hardware store.	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+l-93	In	1	Linda taped the picture to the wall.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	1	Linda taped the picture onto the wall.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	1	This flyer and that flyer differ.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+l-93	In	0	This flyer and that flyer differ apart.	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1
+l-93	In	0	The jeweller scribbled the contract with his name.	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0
+l-93	In	1	The gardener grew that acorn into an oak tree.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+l-93	In	0	The children amused.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+l-93	In	1	Susan whispered the news.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	0	Cynthia chewed.	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+l-93	In	1	Paul laughed at Mary.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+l-93	In	0	The fort fluttered with many flags.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+l-93	In	1	Jackie accompanied Rose.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+ks08	In	0	John offers many advice.	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1
+ks08	In	1	The cake that Jones got was more delicious than the one that Smith got.	0	1	0	1	0	0	0	1	0	0	0	1	1	1	0
+ks08	In	1	John put old books in the box.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+ks08	In	1	Everyone hoped that she would sing.	0	0	0	0	0	0	1	0	1	1	0	0	0	1	0
+ks08	In	1	This proved a decisive factor.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+ks08	In	1	The crocodile devoured the doughnut.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ks08	In	0	Kim depends for Sandy.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+ks08	In	0	That Fred was unpopular nominated Bill.	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+ks08	In	1	John tried to please Stephen.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+ks08	In	1	John can kick the ball.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+ks08	In	0	We expect there to will rain.	0	0	0	1	1	0	0	0	0	1	1	0	0	0	1
+ks08	In	1	John was found in the office.	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0
+ks08	In	1	It did not rain.	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+ks08	In	0	A pound was weighed by the book.	0	1	0	1	1	0	0	0	0	1	0	0	0	0	0
+ks08	In	1	I found the place where we can relax.	0	0	1	0	0	0	0	1	0	1	0	1	0	0	0
+ks08	In	1	There is a bench to sit on.	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0
+ks08	In	1	That is the reason why he resigned.	0	1	0	0	0	0	0	1	1	0	0	1	0	0	0
+ks08	In	1	Kim is eager to please Tom.	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+ks08	In	1	It annoys me that Fido barks.	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0
+kl93	In	1	It's not because I have any sympathy for urban guerillas that I helped him.	0	0	0	1	0	0	0	0	1	1	0	1	1	1	0
+kl93	In	1	It isn't because Sue said anything bad about me that I'm angry.	0	1	1	1	1	0	0	0	1	1	0	0	1	0	0
+b_73	In	1	I have much of the manuscript left to type.	0	1	0	0	0	0	0	0	0	0	1	1	0	1	0
+c_13	In	1	Drew believes I think Rosie loves magazine ads.	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+c_13	In	1	I've lost my wallet or I've lost my mind.	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0
+c_13	In	1	I didn't have a red cent.	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+c_13	In	1	the one with a red cover takes a very long time to read.	0	0	1	0	1	0	0	0	0	0	1	1	1	0	0
+c_13	In	0	The building's the roof is leaking.	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1
+c_13	In	0	Heidi thinks that Andy to eat salmon flavored candy bars.	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+c_13	In	1	Heidi thinks that Andy should eat salmon flavored candy bars.	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+c_13	In	1	He danced.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+c_13	In	1	Sylvia was slapping Jeff upside the head in martial arts class.	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+c_13	In	1	John is likely to leave.	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+c_13	In	1	The manager laughed.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+c_13	In	1	Who did you think kissed the gorilla?	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0
+c_13	In	1	The children admire their mother.	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+d_98	In	1	Any owl hunts mice.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+d_98	In	0	Any man didn't eat dinner.	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1
+g_81	In	1	The Dodgers beat the Red Sox and were beaten by the Giants.	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0
+g_81	In	0	The kennel which Mary made and Fido sleeps has been stolen.	0	0	1	0	1	0	0	1	0	0	0	0	1	0	1
+m_02	In	1	Captain Wentworth wrote a letter to Anne Elliott.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+m_02	In	1	They realised that never had Sir Thomas been so offended.	0	1	1	0	0	0	0	0	1	1	0	0	1	0	0
+m_02	In	1	Who did John send the book?	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0
+m_02	In	1	The idea dismayed the Prime Minister that the Dome was dull.	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0
+m_02	In	1	Harriet admired Mr Knightley.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+m_02	In	1	The book is boring.	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+sgww85	In	1	Pat was awarded the Golden Fleece Award and very upset about it.	0	1	0	1	1	0	0	0	0	0	0	1	0	0	0
+sgww85	In	1	They knew that pictures of each other would be on sale.	0	0	0	1	0	0	1	0	1	1	0	1	0	0	0
+sgww85	In	0	Which article did Terry file papers without reading?	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0
+sks13	In	0	Mary wonders that Bill will come.	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+sks13	In	0	John heard that they criticized themselves.	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+sks13	In	1	Henry found that Bill is sad.	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+sks13	In	0	Everyone hopes everyone to sleep.	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+sks13	In	0	I saw Bill while you did so Mary.	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+ad03	In	0	Kick you!	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1
+ad03	In	1	Did Athena help us?	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+ad03	In	1	Anson believed himself to be handsome.	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0
+ad03	In	0	I thought he liked myself	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+ad03	In	0	What did you ask who saw?	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+ad03	In	1	It is some disgruntled old pigs in those ditches that humans love to eat.	0	0	1	1	1	0	0	0	1	0	1	1	1	1	0
+ad03	In	1	It stinks that Aphrodite is omnipotent.	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0
+ad03	In	0	I inquired when could we leave.	0	0	1	0	0	0	0	1	0	1	0	0	0	0	1
+ad03	In	0	Anson became a muscle bound.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+clc95	Out	0	John is tall on several occasions.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+clc95	Out	0	I know that Meg's attracted to Harry, but they don't know who.	0	1	0	1	0	0	0	1	1	0	0	1	1	0	0
+clc95	Out	0	Each of the performers came in, but were sitting so far back that we couldn't see who.	0	0	1	0	0	0	0	1	1	1	0	1	1	1	1
+clc95	Out	1	She didn't talk to one student.	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0
+clc95	Out	1	The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.	0	0	0	0	0	0	0	1	1	1	1	0	1	1	0
+clc95	Out	1	Most columnists claim that a senior White House official has been briefing them, but none will reveal which one.	0	0	0	0	0	0	1	1	1	1	0	0	1	1	0
+clc95	Out	1	Bill wondered how many papers Sandy had read, but he didn't care which ones.	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0
+clc95	Out	1	They were going to meet sometime on Sunday, but the faculty didn't know when.	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0
+clc95	Out	0	John likes some students, but I don't know who John likes some students.	0	0	0	0	1	0	0	1	0	0	0	0	1	0	1
+clc95	Out	1	She talked to John or Mary but I don't know which one.	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0
+clc95	Out	1	The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0
+clc95	Out	0	In which way is Sandy very anxious to see if the students will be able to solve the homework problem?	0	1	0	0	0	0	0	1	1	1	1	1	0	0	0
+clc95	Out	1	I know how many assignments I've graded, but I don't know how many Bill has.	0	0	0	0	0	0	0	1	0	1	0	0	1	1	0
+clc95	Out	0	What did you leave before they did?	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0
+c-05	Out	1	Mary was respected by John.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+c-05	Out	1	John was spoken to by Mary.	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0
+c-05	Out	0	Mary was given by John the book.	0	0	0	1	1	0	0	0	0	1	0	0	1	0	0
+c-05	Out	0	The magazines were sent to herself by Mary.	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0
+c-05	Out	1	Chocolate eggs were hidden from every child by his mother.	0	0	0	1	1	0	1	0	0	1	0	0	0	1	0
+c-05	Out	1	Books were taken from each student by the other.	0	0	0	1	1	0	1	0	0	0	0	0	0	1	0
+j_71	Out	1	Jack hates Sue and is loved by Mary.	0	0	0	1	1	0	0	0	0	1	0	0	1	0	0
+j_71	Out	1	Sam doesn't play bassoon, nor Medusa oboe.	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+j_71	Out	0	Bill ate the peaches and Harry did the grapes.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+j_71	Out	1	Max seemed to be trying to force Ted to leave the room, and Walt, Ira.	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0
+j_71	Out	0	Bill didn't eat the peaches, nor Harry.	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+j_71	Out	0	Bill must quickly eat the peaches, and Harry must slowly.	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0
+j_71	Out	1	Whenever Russia has made a major political blunder, the U.S. has too.	0	0	1	0	0	0	0	1	0	1	0	0	1	0	0
+j_71	Out	1	Bill's funny story about Sue and Max's boring one about Kathy both amazed me.	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0
+j_71	Out	1	Neither Von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's on Angel has the right tempo.	0	0	1	1	0	0	0	0	0	1	0	1	1	0	0
+s_97	Out	0	The book what inspired them was very long.	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0
+s_97	Out	1	This is the senator to whose mother's friend's sister's I sent the letter.	0	0	0	1	1	0	0	1	0	0	0	1	0	0	0
+s_97	Out	0	Bother you that Kim left!	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+s_97	Out	1	I wonder in whom to place my trust.	0	0	0	1	1	0	0	1	0	0	1	0	0	0	0
+s_97	Out	1	Mary asked me if, in St. Louis, John could rent a house cheap.	0	0	1	0	1	0	0	1	0	1	0	0	1	0	0
+s_97	Out	0	Mary arranged for, in St. Louis, John to rent a house cheap.	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+s_97	Out	0	I wonder in whom them to place their trust.	0	0	0	1	0	0	1	1	1	0	1	0	0	0	1
+s_97	Out	0	I wonder whom us to trust.	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+s_97	Out	1	I threw away a book that Sandy thought we had read.	0	0	1	0	1	0	0	1	1	0	0	0	0	0	0
+s_97	Out	1	The book that I like which everyone else in the class hates was written by John.	0	0	0	1	1	0	0	1	1	1	0	1	0	1	0
+s_97	Out	1	Which book's, author did you meet?	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0
+s_97	Out	1	All who lost money in the scam are eligible for the program.	0	1	1	1	0	0	0	1	0	0	0	1	0	1	0
+s_97	Out	1	The bills passed by the House yesterday that we objected to were vetoed.	0	0	1	1	1	0	0	1	0	0	0	1	1	0	0
+swb04	Out	1	She voted for herself.	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+swb04	Out	0	We gave us presents.	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0
+swb04	Out	0	We gave us to the cause.	0	0	0	1	1	0	1	0	0	0	0	0	0	0	1
+swb04	Out	0	Vote for you!	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1
+swb04	Out	1	She can run an accelerator.	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+swb04	Out	1	I know you like the back of my hand.	0	0	1	1	0	0	1	0	1	0	0	1	0	1	0
+swb04	Out	1	List all experts for the defendant who represented himself.	0	0	0	1	0	1	1	1	0	0	0	1	0	1	0
+swb04	Out	0	They lost themselves' books.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+swb04	Out	1	Some sentences go on and on and on.	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0
+swb04	Out	1	They were interested in his.	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0
+swb04	Out	1	Some people yell at dogs.	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+swb04	Out	1	People with children who use drugs should be locked up.	0	0	1	0	1	0	0	1	0	1	0	1	0	0	0
+swb04	Out	1	The love of my life and mother of my children would never do such a thing.	0	0	1	1	0	0	0	0	0	1	0	1	1	0	0
+swb04	Out	0	The teacher handed the student.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+swb04	Out	0	The birds gives the worm a tug.	0	0	0	1	1	0	0	0	0	0	0	1	0	0	1
+swb04	Out	1	What additional categories and rules would be required to handle these verbs?	0	0	0	0	1	0	0	1	0	1	1	0	1	0	0
+swb04	Out	0	The defendants denies the allegation.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+swb04	Out	1	How many feature structures categories can label the first daughter?	0	0	0	0	0	0	0	1	0	1	0	1	0	1	0
+swb04	Out	1	The teacher became angry with the students.	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0
+swb04	Out	0	The teacher became.	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+swb04	Out	1	The jury believed the defendant lied.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+swb04	Out	0	We relied above Leslie.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+swb04	Out	1	Newsweek appeared on the newsstands.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+swb04	Out	1	The storm arrived after the picnic.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+swb04	Out	1	With my parents as supportive as they are, I'll be in fine shape.	0	1	0	1	0	0	0	0	0	1	0	0	1	1	0
+swb04	Out	1	The dogs barked.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+swb04	Out	1	Nobody told Susan.	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0
+swb04	Out	0	Protect you!	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+swb04	Out	0	Chris handed Bo.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+swb04	Out	1	Dana walked and Leslie ran.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+swb04	Out	1	The police sprayed water on the protesters.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+swb04	Out	1	The boat seen down the river sank.	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+swb04	Out	1	The evidence assembled by the prosecution convinced the jury.	0	0	1	1	1	0	0	0	0	0	0	1	0	0	0
+swb04	Out	0	The cat was bitten the mouse.	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1
+swb04	Out	0	The cat was bitten the mouse by the dog.	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1
+swb04	Out	0	TV puts dumb ideas.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+swb04	Out	0	The cat were bitten by the dog.	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1
+swb04	Out	1	That dogs bark annoys people.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+swb04	Out	1	That Chris knew the answer occurred to Pat.	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+swb04	Out	1	That the Cardinal won the game gave Sandy a thrill.	0	0	0	1	1	0	0	0	1	0	0	1	0	0	0
+swb04	Out	0	That Sandy had lied suggested.	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0
+w_80	Out	1	I gave John gold apples.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+w_80	Out	1	John is near Larry.	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+w_80	Out	1	John promised Bill to leave.	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+w_80	Out	1	there is nothing to do.	0	0	1	1	0	0	0	0	0	1	1	1	0	1	0
+w_80	Out	1	John has something for Bill to do.	0	0	1	0	0	0	0	0	1	0	1	1	0	1	0
+w_80	Out	0	It was hated for John to leave.	0	0	0	1	1	0	0	0	1	0	0	0	1	0	0
+w_80	Out	1	to die is no fun.	0	1	0	0	0	0	0	0	0	0	1	1	0	1	0
+w_80	Out	1	John told Mary that it was important to Fred to leave early.	0	1	0	1	1	0	0	0	1	0	1	1	0	0	0
+w_80	Out	1	John's arriving dead surprised me.	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+w_80	Out	1	John regretted it that Bill had a good time.	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0
+w_80	Out	1	That he is here is the problem.	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+w_80	Out	0	It is to give up to leave.	0	1	0	1	1	0	0	0	0	0	1	0	0	0	0
+w_80	Out	1	I presented it to Bill to read.	0	0	1	1	1	0	0	0	0	0	1	0	0	0	0
+w_80	Out	0	I presented Bill with it to read.	0	0	1	1	1	0	0	0	0	0	1	0	0	0	0
+w_80	Out	1	John made Bill master of himself.	0	1	0	1	1	0	1	0	0	0	0	1	0	0	0
+w_80	Out	1	John considers Bill silly.	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
