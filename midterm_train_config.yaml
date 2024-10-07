@@ -15,9 +15,9 @@ models:
   # hf_text_classification_model:
   #       - distilbert-base-uncased
 
-trainfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/annotated_train.tsv
+trainfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/tokenized/in_domain_train.tsv
 
-validfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/annotated_test.tsv
+validfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/tokenized/in_domain_dev.tsv
 
 modelfpath: models
 
