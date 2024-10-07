@@ -7,17 +7,17 @@ mode:
 models:
   hf_text_classification_model:
       - bert-large-uncased
-  hf_text_classification_model:
-      - openai-gpt
-  
-  
-  # TEST with a model we know should work
   # hf_text_classification_model:
-  #       - distilbert-base-uncased
+  #     - openai-gpt
+  
+tokenizers:
+        hf_tokenizer: 
+            - gpt2
+  
 
-trainfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/tokenized/in_domain_train.tsv
+trainfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/train_data/train.tsv
 
-validfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/tokenized/in_domain_dev.tsv
+validfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/train_data/test.tsv
 
 modelfpath: models
 
