@@ -1,0 +1,24 @@
+exp: TextClassification
+# https://github.com/forrestdavis/NLPScholar/blob/main/sample_configs/text_classification.yaml
+
+mode:
+  - train
+
+models:
+  - hf_text_classification_model:
+      - bert-large-uncased
+  # - hf_text_classification_model:
+  #     - openai-gpt
+  # TEST
+  # hf_text_classification_model:
+  #       - distilbert-base-uncased
+
+trainfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/annotated_train.tsv
+
+validfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/annotated_test.tsv`
+
+modelfpath: models
+
+numLabels: 2
+
+loadPretrained: False
