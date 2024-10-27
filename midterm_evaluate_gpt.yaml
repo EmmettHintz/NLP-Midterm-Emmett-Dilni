@@ -1,0 +1,12 @@
+exp: TextClassification
+
+mode: 
+   - evaluate
+
+models: 
+    hf_text_classification_model:
+        - gpt2_models/GPT2_MODEL_3
+
+datafpath: ../data/major_evaluate.tsv
+
+predfpath: ./model_output/gpt_output/GPT3_evaluate.tsv

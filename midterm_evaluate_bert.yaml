@@ -1,0 +1,12 @@
+exp: TextClassification
+
+mode: 
+   - evaluate
+
+models: 
+    hf_text_classification_model:
+        - bert_models/BERT_MODEL_3
+
+datafpath: ../data/major_evaluate.tsv
+
+predfpath: ./model_output/bert_output/bert3_evaluate.tsv

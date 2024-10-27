@@ -1,4 +1,4 @@
-Source	Domain	Acceptability	Sentence	Simple	Predicate	Adjunct	Argument Type	Arg Altern	Imperative	Binding	Question	Comp Clause	Auxiliary	to-VP	N, Adj	S-Syntax	Determiner	Violations
+remove	condition	target	text	Simple	Predicate	Adjunct	Argument Type	Arg Altern	Imperative	Binding	Question	Comp Clause	Auxiliary	to-VP	N, Adj	S-Syntax	Determiner	Violations
 gj04	In	1	The sailors rode the breeze clear of the rocks.	0	1	0	1	1	0	0	0	0	0	0	1	0	0	0
 gj04	In	1	The weights made the rope stretch over the pulley.	0	1	0	1	1	0	0	0	0	0	1	0	0	0	0
 gj04	In	1	The mechanical doll wriggled itself loose.	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0

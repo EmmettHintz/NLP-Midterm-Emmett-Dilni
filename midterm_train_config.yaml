@@ -1,26 +1,19 @@
 exp: TextClassification
-# https://github.com/forrestdavis/NLPScholar/blob/main/sample_configs/text_classification.yaml
 
 mode:
   - train
 
 models:
-  hf_text_classification_model:
-      - bert-large-uncased
   # hf_text_classification_model:
-  #     - openai-gpt
-  
-tokenizers:
-        hf_tokenizer: 
-            - gpt2
+  #     - bert-large-uncased
+  hf_text_classification_model:
+      - gpt2
   
 
-trainfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/train_data/train.tsv
+trainfpath: ../data/train_data/train.tsv
 
-validfpath: /Users/emmetthintz/Documents/2024Fall/NLP/Midterm/data/train_data/test.tsv
+validfpath: ../data/train_data/test.tsv
 
-modelfpath: models
+modelfpath: ../models/
 
-numLabels: 2
-
-loadPretrained: False
+batchSize: 64
